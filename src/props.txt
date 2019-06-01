@@ -1,0 +1,25 @@
+CarModel:Sample Model
+Option1=Colors
+OptionValue1a=Fort Knox Gold Clearcoat Metallic
+OptionValue1b=Liquid Grey Clearcoat Metallic
+OptionValue1c=Infra-Red Clearcoat
+OptionValue1d=Grabber Green 0 Clearcoat Metallic
+OptionValue1e=Sangria Red Clearcoat Metallic
+OptionValue1f=French Blue Clearcoat Metallic
+OptionValue1g=Twilight Blue 0 Clearcoat Metallic
+OptionValue1h=CD Silver Clearcoat Metallic
+OptionValue1i=Pitch Black Clearcoat
+OptionValue1j=Cloud 9 White Clearcoat
+Option2=Transmission
+OptionValue2a=Automatic
+OptionValue2b=Standard
+Option3=Brakes/Traction Control
+OptionValue3a=Standard
+OptionValue3b=ABS
+OptionValue3c=ABS with Advance Trac
+Option4=Side Impact Air Bags
+OptionValue4a=None
+OptionValue4b=Selected
+Option5=Power Moonroof
+OptionValue5a=None
+OptionValue5b=Selected
