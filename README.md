@@ -4,6 +4,8 @@ A solo final project for `CIS 35B - Advanced Java Programming` at `De Anza Colle
 based on the make, model, color, and additional features. The newly created car will be saved as an object and sent to the server where
 it will be stored in a LinkedHashMap data structure.
 
+![console](https://github.com/VoChrisK/Automobile-Customization/blob/master/assets/console-image.png)
+
 ## Languages/Technologies
 * Java
 * java.net
@@ -77,7 +79,7 @@ if(reader.readLine().equals("SUCCESS")) {
 
 ### General Structure
 
-![structure](https://i.imgur.com/DKniQ2H.png)
+![file structure](https://github.com/VoChrisK/Automobile-Customization/blob/master/assets/file-structure.png)
 
 The **model** contains all information regarding **Automobile**, **Option**, and **OptionSet**. Each class keeps track of the respective entity's data and
 make changes to them accordingly. The classes 
